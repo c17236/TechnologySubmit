@@ -1,0 +1,52 @@
+
+#capture_white2{
+    left: 0px;
+    position: absolute;
+}
+
+#board_img{
+    left: 151px;
+    position: absolute;
+}
+
+#board{
+    left:151px;
+   
+    position: absolute;
+}
+#board2{
+    left:151px;
+    
+    position: absolute;
+}
+#capture_black{
+    left: 452px;
+    top: 128px;
+    position: absolute;
+    z-index: 20;
+}
+#capture_black2{
+    left: 452px;
+    top: 128px;
+    position: absolute;
+    z-index: 10;
+}
+#TebanMessage{
+    position: absolute;
+    left:500px;
+}
+#promotion_window{
+    position: absolute;
+    
+}
+#teMessage{
+    position: absolute;
+    left: 500px;
+    top: 30px;
+}
+#textBox{
+    position: absolute;
+    top: 330px;
+    left: 50px;
+    margin: 30px;
+}
